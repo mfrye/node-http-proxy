@@ -14,7 +14,9 @@
   "main": "index.js",
   "dependencies": {
     "eventemitter3": "1.x.x",
-    "requires-port": "1.x.x"
+    "iltorb": "^1.0.13",
+    "requires-port": "1.x.x",
+    "stream": "0.0.2"
   },
   "devDependencies": {
     "async": "*",
